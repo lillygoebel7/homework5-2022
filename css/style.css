@@ -123,6 +123,7 @@ a, a:visited {
     nav{
         width: 100%;
     }
+    
     .nav_links{
         display: flex;
         flex-direction: row;
